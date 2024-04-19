@@ -20,14 +20,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1707820622,
-      "size": 2150677039,
-      "filehash": "a71331cdcaf6d4f84ca720454bff188a",
-      "filename": "awaken-4.3-ursa-beryllium-official-1045-20240213.zip",
-      "id": "d83b6cf2efe19e04fbdf0259a40c92100795611fca290e70b0582fcbd2724cb4",
+      "datetime": 1713529372,
+      "size": 2130971617,
+      "filehash": "5e1b3e2880e2d0d08beaa93b58a8bc12",
+      "filename": "awaken-4.4-ursa-beryllium-official-1224-20240419.zip",
+      "id": "b83c56d260a5f12ce153d001a3e70bf1685b7c981a558dc58865dbb7bf47c84a",
       "romtype": "official",
-      "version": "4.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-4.3-ursa-beryllium-official-1045-20240213.zip/download"
+      "version": "4.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-4.4-ursa-beryllium-official-1224-20240419.zip/download"
     }
   ]
 }
