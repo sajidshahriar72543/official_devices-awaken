@@ -1,3 +1,12 @@
+# 19-Apr-2024
+- Allowed users to disable clipboard overlay.
+- Introduced hotspot client manager.
+- Introduced new battery info page.
+- Introduced new refresh rate page.
+- Misc fixes and improvements
+- Reintroduced internet and sensor permissions.
+- Reintroduced power off alarm service.
+
 # 13-Feb-2024
 - Allow users to change face unlock method when locked
 - Allow users to hide ADB and developer setting enable status
