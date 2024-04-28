@@ -1,0 +1,19 @@
+# 28-Apr-2024
+- Initial official release
+- Full OSS kernel
+- Upstream kernel
+- Update common blobs from ziyi V816.0.4.0.ULLMIXM
+- Update media from ziyi V816.0.4.0.ULLMIXM
+- Update marble blobs from V816.0.3.0.UMRMIXM
+- Added MIUI camera from marble V816.0.3.0.UMRMIXM
+- Introduce Dolby Atmos support
+- Update display stack from LA.VENDOR.1.0.r1-24300-WAIPIO QSSI14.0
+- wlan: Disable fw TWT
+- wlan: Enable wifi 6 hotspot support
+- wlan: Add qca6750 config
+- Extract diwali media configs
+- Decommonize libssccalapi@2.0
+- Do not balance msm_drm and kgsl_3d0 IRQs                                                                                                                                                  
+- Move to Xiaomi common sepolicy
+- Rework supported color modes
+- Other mics improvements

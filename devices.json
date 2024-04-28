@@ -43,6 +43,14 @@
       "active": false
     },
     {
+      "codename": "marble",
+      "codename_alt": "marblein",
+      "vendor": "Redmi",
+      "model": "Redmi Note 12 Turbo/POCO F5",
+      "maintainer_name": "Zohaib",
+      "active": true
+    },
+    {
       "codename": "miatoll",
       "vendor": "Xiaomi",
       "model": "Xiaomi POCO M2 Pro, Redmi Note 9S/Pro/Pro Max",
