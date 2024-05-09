@@ -1,3 +1,8 @@
+# 09-May-2024
+- Fixed few issues related to Bluetooth
+- Introduced Smart 5G service
+- Misc fixes and improvements
+
 # 19-Apr-2024
 - Allowed users to disable clipboard overlay.
 - Introduced hotspot client manager.
