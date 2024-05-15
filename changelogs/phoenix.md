@@ -1,3 +1,8 @@
+# 15-May-2024
+- Fixed NFC for phoenix variant
+- Fixed battery cycles not showing under battery info
+- Introduce Per-app Refresh rate under display settings
+
 # 23-Apr-2024
 - Switched to Openela perf kernel
 - Upstreamed kernel to v4.14.340
