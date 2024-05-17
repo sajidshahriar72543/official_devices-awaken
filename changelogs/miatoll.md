@@ -1,3 +1,9 @@
+# 17-May-2024
+- Removed Spatial Audio
+- Removed Soundtrigger related stuff
+- Switched to OSS audio
+- Adjusted statusbar padding
+
 # 04-Mar-2023
 - Initial Android 14 official release
 
